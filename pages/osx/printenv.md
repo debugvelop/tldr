@@ -8,4 +8,4 @@
 
 - Options (The name of the environment variable)
 
-`name`
+`(name)`
