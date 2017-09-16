@@ -4,7 +4,7 @@
 
 - Syntax
 
-`printenv [name]`
+`printenv (name)`
 
 - Options (The name of the environment variable)
 
