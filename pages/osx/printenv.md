@@ -4,8 +4,8 @@
 
 - Syntax
 
-`printenv {{name}}`
+`printenv {{name}}:`
 
 - Options (The name of environment variable)
 
-`name`
+`name:`
